@@ -9,7 +9,7 @@ Desafio do site FrontEnd Mentor, com o objetivo que fazer um order summary.
 
 ### Links
 
-- Solution URL: (https://github.com/fercostard/frontendmentor-nftpreview)
+- Solution URL: (https://github.com/fercostard/frontendmentor-order-summary)
 - Live Site URL:(https://fercostard.github.io/frontendmentor-nftpreview/)
 
 ### Linguagens Usadas
